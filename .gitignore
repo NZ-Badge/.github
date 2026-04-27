@@ -1,0 +1,7 @@
+.codex
+.DS_Store
+
+/app/
+/hardware/
+/firmware/reader-station/
+/firmware/writer-station/
