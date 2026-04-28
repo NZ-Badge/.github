@@ -13,6 +13,9 @@ Il progetto e' composto da quattro aree distinte:
 Questo README descrive la vista di insieme. Setup, API, pinout e dettagli operativi restano
 documentati nei README specifici dei sottoprogetti.
 
+Nota: l'intero progetto e' sviluppato con un forte supporto AI, basandosi in particolare su
+Codex, Kimi Code e Claude Code.
+
 Nel setup GitHub consigliato, questa root va trattata come meta-repository leggero di
 coordinamento, non come contenitore dei repository figli tramite cartelle versionate.
 
