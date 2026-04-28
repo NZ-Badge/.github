@@ -184,10 +184,10 @@ La guida operativa completa e' in [docs/github-structure.md](./docs/github-struc
 
 ## Mappa Rapida Dei Sottoprogetti
 
-- [Webapp README](./app/webapp/README.md)
-- [Reader Station README](./firmware/reader-station/README.md)
-- [Writer Station README](./firmware/writer-station/README.md)
-- [Hardware README](./hardware/README.md)
+- [Webapp](https://github.com/NZ-Badge/nz-badge-webapp)
+- [Reader Station](https://github.com/NZ-Badge/nz-badge-reader-station)
+- [Writer Station](https://github.com/NZ-Badge/nz-badge-writer-station)
+- [Hardware](https://github.com/NZ-Badge/nz-badge-hardware)
 
 ## Bootstrap Workspace
 
