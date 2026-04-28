@@ -76,7 +76,7 @@ La webapp e' il centro di integrazione principale. Gestisce:
 - upload e attivazione firmware OTA per i reader
 - sync e webhook verso il sistema esterno di enrollments
 
-Nel workspace attuale il codice vive in [app/webapp](./app/webapp/README.md).
+Nel workspace attuale il codice vive in [app/webapp](../app/webapp/README.md).
 
 ### Reader Station
 
@@ -84,7 +84,7 @@ Nel workspace attuale il codice vive in [app/webapp](./app/webapp/README.md).
 campo, invia presenze alla webapp e continua a lavorare anche offline grazie a una coda locale che
 viene flushata quando la connettivita' torna disponibile.
 
-Nel workspace attuale il codice vive in [firmware/reader-station](./firmware/reader-station/README.md).
+Nel workspace attuale il codice vive in [firmware/reader-station](../firmware/reader-station/README.md).
 
 ### Writer Station
 
@@ -92,7 +92,7 @@ Nel workspace attuale il codice vive in [firmware/reader-station](./firmware/rea
 autorizzazioni: esegue operazioni hardware richieste dalla webapp, come scrittura MIFARE, lettura
 UID e cancellazione card.
 
-Nel workspace attuale il codice vive in [firmware/writer-station](./firmware/writer-station/README.md).
+Nel workspace attuale il codice vive in [firmware/writer-station](../firmware/writer-station/README.md).
 
 ### Hardware
 
@@ -105,7 +105,7 @@ Il repository hardware raccoglie gli artefatti fisici del progetto:
 Lo stato attuale documenta soprattutto l'adattatore ESP32-S3 allineato al `reader-station`, mentre
 per il writer le evidenze hardware presenti sono piu' parziali.
 
-Nel workspace attuale il materiale vive in [hardware](./hardware/README.md).
+Nel workspace attuale il materiale vive in [hardware](../hardware/README.md).
 
 ## Flusso Operativo End-To-End
 
@@ -180,7 +180,7 @@ Nota importante:
 - per evitare gitlink accidentali, il meta-repo deve ignorare `app`, `hardware` e i repository sotto
   `firmware`
 
-La guida operativa completa e' in [docs/github-structure.md](./docs/github-structure.md).
+La guida operativa completa e' in [docs/github-structure.md](../docs/github-structure.md).
 
 ## Mappa Rapida Dei Sottoprogetti
 
